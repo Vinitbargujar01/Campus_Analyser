@@ -1,6 +1,7 @@
 # 🏛️ Smart Campus Intelligence (SCI)
 ### Making Campus Management Easy with Data & AI
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo_Link-blue?style=for-the-badge&logo=streamlit)](https://campus-analyser-vinit.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.9+-green?style=for-the-badge&logo=python)]()
 [![Streamlit](https://img.shields.io/badge/Built%20With-Streamlit-red?style=for-the-badge&logo=streamlit)]()
 
@@ -111,6 +112,14 @@ rain expected today → library crowd increases → add more shuttle trips
 | Google Gemini (AI Studio) | recommendations |
 | Pandas | data processing |
 | NumPy | calculations |
+
+---
+
+## Live Demo
+
+Open the project here:
+
+https://campus-analyser-vinit.streamlit.app/
 
 ---
 
