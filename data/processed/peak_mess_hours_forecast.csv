@@ -1,0 +1,4 @@
+ts,mess_id,peak_prob,predicted_peak,entries_forecast,model_name
+2026-11-25T15:00:00Z,M01,0.1423421026935463,0,193.8,logreg_peak_v1
+2026-11-25T15:00:00Z,M02,0.16231356916421505,0,241.20000000000002,logreg_peak_v1
+2026-11-25T15:00:00Z,M03,0.1466397608298214,0,180.2,logreg_peak_v1

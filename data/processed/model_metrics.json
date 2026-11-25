@@ -1,0 +1,17 @@
+{
+  "anomaly_detection": {
+    "f1": 0.0,
+    "precision": 0.0,
+    "recall": 0.0
+  },
+  "electricity_forecast": {
+    "mae": 12.295214133282336,
+    "mape": 13.401477950038155,
+    "model_name": "gbr_lag_features"
+  },
+  "peak_mess_prediction": {
+    "f1": 0.49019607843137253,
+    "model_name": "logreg_peak_v1",
+    "threshold": 0.2
+  }
+}

@@ -1,0 +1,2 @@
+rec_id,created_ts,category,target_type,target_id,time_window,reason,confidence,expected_impact,priority
+1cfff538-ed0b-4873-9ed2-614de27b0bfa,2026-11-25T19:06:07Z,system,campus,all,Always,Structured recommendations superseded by AI Insights panel on each dashboard page.,1.0,See per-view AI analysis sections.,1
