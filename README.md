@@ -1,7 +1,6 @@
 # 🏛️ Smart Campus Intelligence (SCI)
 ### Making Campus Management Easy with Data & AI
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo_Link-blue?style=for-the-badge&logo=streamlit)](https://campusanalyzer-mid-prep.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.9+-green?style=for-the-badge&logo=python)]()
 [![Streamlit](https://img.shields.io/badge/Built%20With-Streamlit-red?style=for-the-badge&logo=streamlit)]()
 
@@ -36,13 +35,6 @@ Result:
 
 ---
 
-## Live Demo
-
-Open the project here:
-
-https://campusanalyzer-mid-prep.streamlit.app/
-
----
 
 ## Problems Solved
 
