@@ -129,9 +129,9 @@ Quick start (mac/linux): `./run.sh` sets everything up on first run and starts t
 ### Step 1 clone repository
 
 
-git clone https://github.com/nitingargiitr/Campus_Analyzer.git
+git clone https://github.com/Vinitbargujar01/Campus_Analyser.git
 
-cd Campus_Analyzer
+cd Campus_Analyser
 
 
 ---
